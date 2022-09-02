@@ -1,0 +1,18 @@
+<template>
+    <ContentBase class="shadow p-3 mb-5 bg-body rounded">
+        登录区
+    </ContentBase>
+</template>
+
+
+<style>
+</style>
+
+<script>
+import ContentBase from '@/components/contentBase.vue';
+export default {
+    components: { ContentBase }
+
+}
+</script>
+    
